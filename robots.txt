@@ -1,0 +1,3 @@
+# Crawlers need access to the page to read its noindex directive.
+User-agent: *
+Disallow:
